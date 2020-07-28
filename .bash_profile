@@ -10,3 +10,6 @@ alias glo='git log --oneline'
 alias gp='git push'
 alias gpf='git push -f'
 alias gri='git reabse -i'
+
+# Read .bashrc
+test -r ~/.bashrc && . ~/.bashrc
