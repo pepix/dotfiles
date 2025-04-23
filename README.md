@@ -21,6 +21,7 @@ Run below commands under root directory.
 
 ```bash
 $ ln -s dotfiles/.vimrc .vimrc
+$ ln -s dotfiles/.zsh_custom .zsh_custom
 ```
 
 ### 3. Add custom commands to `.zshrc`
