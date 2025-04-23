@@ -1,0 +1,7 @@
+# Git
+alias gs='git status -s'
+alias gri='git reabse -i'
+
+# Read .zshrc
+alias rzsh='source ~/.zshrc'
+

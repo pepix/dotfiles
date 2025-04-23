@@ -15,7 +15,9 @@ set showmatch
 
 set tabstop=2
 set shiftwidth=2
-syntax on
 
 set clipboard+=unnamed
 set backspace=indent,eol,start
+
+syntax enable
+set re=0
