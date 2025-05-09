@@ -1,6 +1,6 @@
 # Git
 alias gs='git status -s'
-alias gri='git reabse -i'
+alias gri='git rebase -i'
 
 # Read .zshrc
 alias rzsh='source ~/.zshrc'
